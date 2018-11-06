@@ -1,0 +1,2 @@
+# QtWeChat
+WeChat for Qt
